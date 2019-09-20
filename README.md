@@ -56,6 +56,7 @@ are returned. The program also returns whether the article
 is generally positive or negative 
 (Based on the ratio of Positive to Negative words).
 
+* CURRENTLY WORKING ON MORE EFFICIENT UPDATE WITH GUI. COMING SOON! *
 
 ## License
 
